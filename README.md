@@ -1,6 +1,6 @@
-**Customer Management System
+**Customer Management System**
 
-TEAM:**
+**TEAM:**
 
 **Scrum Master:** SOTERIO, RUSSEL ADRIAN E.
 
